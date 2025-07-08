@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #06c;
+}
+
+a:hover {
+  color: #06c;
+  text-decoration: underline;
+}
+```
+
+This is a basic ecommerce website with a homepage that lists products and a product page that displays product details. Note that this is just a starting point and you will need to add more features, such as user authentication, payment processing, and cart functionality, to create a fully functional ecommerce website.
